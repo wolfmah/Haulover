@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="5f53ddac-1f7a-40cb-aef5-7c1c65b7879e"
+    Name="30ed4db5-0314-4aaa-b310-8a29b37fa8f7"
     Publisher="CN=maharbec"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="5f53ddac-1f7a-40cb-aef5-7c1c65b7879e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="30ed4db5-0314-4aaa-b310-8a29b37fa8f7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Haulover</DisplayName>

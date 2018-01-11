@@ -8,6 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="btnCreateToast" Content="Create Toast" HorizontalAlignment="Left" Margin="441,347,0,0" VerticalAlignment="Top" Click="OnClick"/>
+        <TextBlock x:Name="txtToastAction" HorizontalAlignment="Left" Margin="871,516,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>

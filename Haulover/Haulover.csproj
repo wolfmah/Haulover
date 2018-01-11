@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{1A9CC560-2EBC-4D91-90D7-053B2EF9BBE6}</ProjectGuid>
+    <ProjectGuid>{3A58984D-E5E2-44CA-A601-C666C0342386}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Haulover</RootNamespace>
